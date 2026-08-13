@@ -1,4 +1,4 @@
-### Hi, I'm Manny — Information Security Engineer
+### Hi, I'm Manny, your friendly neighborhood Information Security Engineer
 
 I work in threat detection and incident response, spending most of my day in SIEM/EDR/NDR tooling and identity platforms. Outside of triage and investigations, I build small automation tools that solve real operational problems I run into on the job such as AD administration, file integrity checks, and network configuration auditing.
 
